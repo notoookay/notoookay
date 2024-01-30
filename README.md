@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm a graduate student working on NLP research with deep learning. The field is fast-paced and exciting, with such more extraordinary works there.
 I always look for people with passion and skills, if you want to work together, contact me.
-- 🔭 I’m currently working on Natual Understanding tasks like Question Answering.
+- 🔭 I’m currently working on Natural Understanding tasks like Question Answering.
 - 👯 I’m looking to collaborate with people who have passion on NLP research.
