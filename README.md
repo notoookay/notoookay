@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a graduate student working on NLP research with deep learning. The field is fast-paced and exciting, with such more extraordinary works there.
-I always look for people with passion and skills, if you want to work together, contact me.
-- 🔭 I’m currently working on Natural Language Understanding tasks like Question Answering.
-- 👯 I’m looking to collaborate with people who have passion on NLP research.
+I'm a first-year MS student passionate about NLP research with deep learning. The field's rapid evolution and groundbreaking developments continue to inspire me. I'm also keenly interested in reinforcement learning and its potential applications in NLP.
+I'm always eager to connect with fellow enthusiasts and researchers in these domains. If you share my interests and are looking for a collaborative partner, don't hesitate to reach out!
+
+🔭 I'm currently focused on Natural Language Understanding tasks.
+🌱 I'm expanding my knowledge in reinforcement learning and exploring its synergies with NLP.
+👯 I'm actively seeking collaborations on innovative NLP projects and research initiatives.
+
+Feel free to contact me if you're interested in joining forces on exciting NLP or RL projects.
 
 personal website: https://notoookay.github.io
