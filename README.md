@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a first-year MS student passionate about NLP research with deep learning. The field's rapid evolution and groundbreaking developments continue to inspire me. I'm also keenly interested in reinforcement learning and its potential applications in NLP.
+I'm a second-year MS student passionate about NLP research with deep learning. The field's rapid evolution and groundbreaking developments continue to inspire me. I'm also keenly interested in reinforcement learning and its potential applications in NLP.
 I'm always eager to connect with fellow enthusiasts and researchers in these domains. If you share my interests and are looking for a collaborative partner, don't hesitate to reach out!
 
 - 🔭 I'm currently focused on Natural Language Understanding tasks.
